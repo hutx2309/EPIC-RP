@@ -1,4 +1,4 @@
-obj
+obj/
 *.mod
 *.d
 *.zip
